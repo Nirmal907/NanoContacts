@@ -1,0 +1,11 @@
+venv
+media
+shop/static
+shop/__pycache__/models.cpython-37.pyc
+.idea/Relio.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+relio/__pycache__/urls.cpython-37.pyc
+relio/__pycache__/__init__.cpython-37.pyc
